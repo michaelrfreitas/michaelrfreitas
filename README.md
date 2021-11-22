@@ -13,7 +13,7 @@ ____
 
 <img src="images/html5.png" alt="HTML5 Logo" width="130"> <img src="images/css3.png" alt="CSS3 Logo" width="130"> <img src="images/javascript.png" alt="JavaScript Logo" width="130"> <img src="images/nodejs.png" alt="NodeJS Logo" width="130">
 
-<img src="images/python.png" alt="Python Logo" width="130"> <img src="images/heroku2.png" alt="Heroku Logo" width="130"> <img src="images/mongodb.png" alt="MongoDB Logo" width="130"> <img src="images/bootstrap.png" alt="Bootstrap Logo" width="130">
+<img src="images/python2.png" alt="Python Logo" width="130"> <img src="images/heroku2.png" alt="Heroku Logo" width="130"> <img src="images/mongodb.png" alt="MongoDB Logo" width="130"> <img src="images/bootstrap.png" alt="Bootstrap Logo" width="130">
 
 ____
 
