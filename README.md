@@ -4,7 +4,7 @@ I love to develop and I'm very happy to share some things that I'm working on wi
 
 Stay comfortable to send me a message or do any questions.
 
-✉️ mailto:michael_rfreitas@hotmail.com
+✉️ michael_rfreitas@hotmail.com
 🔗 https://www.linkedin.com/in/michaelr-freitas/
 
 ____
