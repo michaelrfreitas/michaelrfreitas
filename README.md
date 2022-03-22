@@ -12,9 +12,9 @@ ____
 
 ### My Toolbox
 
-<img src="images/html5.png" alt="HTML5 Logo" height="140" width="130">HTML5 <img src="images/css3.png" alt="CSS3 Logo" height="150" width="140">CSS3 <img src="images/javascript.png" alt="JavaScript Logo" height="150" width="130">JavaScript <img src="images/nodejs.png" alt="NodeJS Logo" height="150" width="130">NodeJS <img src="images/Java.png" alt="Java Logo" height="140" width="130">Java 
+<img src="images/html5.png" alt="HTML5 Logo" height="130" width="120">HTML5 <img src="images/css3.png" alt="CSS3 Logo" height="140" width="120">CSS3 <img src="images/javascript.png" alt="JavaScript Logo" height="140" width="120">JavaScript <img src="images/nodejs.png" alt="NodeJS Logo" height="140" width="120">NodeJS <img src="images/Java.png" alt="Java Logo" height="130" width="120">Java 
 
-<img src="images/python2.png" alt="Python Logo" height="140" width="130">Python <img src="images/heroku2.png" alt="Heroku Logo" height="140" width="130">Heroku <img src="images/mongodb.png" alt="MongoDB Logo" height="150" width="130">MongoDB <img src="images/bootstrap.png" alt="Bootstrap Logo" height="160" width="130"> Bootstrap <img src="images/Git.png" alt="Git Logo" height="140" width="130">Git
+<img src="images/python2.png" alt="Python Logo" height="130" width="120">Python <img src="images/heroku2.png" alt="Heroku Logo" height="130" width="120">Heroku <img src="images/mongodb.png" alt="MongoDB Logo" height="140" width="120">MongoDB <img src="images/bootstrap.png" alt="Bootstrap Logo" height="150" width="120"> Bootstrap <img src="images/Git.png" alt="Git Logo" height="115" width="110">Git
 ____
 
 ** You are invited to see my Git and projects 👇🏻 **
