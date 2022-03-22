@@ -11,9 +11,9 @@ ____
 
 ### My Toolbox
 
-<img src="images/html5.png" alt="HTML5 Logo" width="130">HTML5 <img src="images/css3.png" alt="CSS3 Logo" width="130">CSS3 <img src="images/javascript.png" alt="JavaScript Logo" width="130">JavaScript <img src="images/nodejs.png" alt="NodeJS Logo" width="130">NodeJS
+<img src="images/html5.png" alt="HTML5 Logo" height="140" width="130">HTML5 <img src="images/css3.png" alt="CSS3 Logo" height="150" width="140">CSS3 <img src="images/javascript.png" alt="JavaScript Logo" height="150" width="130">JavaScript <img src="images/nodejs.png" alt="NodeJS Logo" height="150" width="130">NodeJS 
 
-<img src="images/python2.png" alt="Python Logo" width="130"> <img src="images/heroku2.png" alt="Heroku Logo" width="130"> <img src="images/mongodb.png" alt="MongoDB Logo" width="130"> <img src="images/bootstrap.png" alt="Bootstrap Logo" width="130">
+<img src="images/python2.png" alt="Python Logo" height="140" width="130">Python <img src="images/heroku2.png" alt="Heroku Logo" height="140" width="130">Heroku <img src="images/mongodb.png" alt="MongoDB Logo" height="150" width="130">MongoDB <img src="images/bootstrap.png" alt="Bootstrap Logo" height="160" width="130"> Bootstrap
 
 ____
 
