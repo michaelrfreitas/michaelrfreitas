@@ -4,9 +4,9 @@ I'm Michael Freitas. Improving my skills in Development.
 
 I'm from Brazil and living in Ireland.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username={michaelrfreitas}&theme=blue-green)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=michaelrfreitas&theme=blue-green)
 
-![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={michaelrfreitas}&theme=blue-green)
+![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelrfreitas&theme=blue-green)
 
 [![MS Outlook: Michael Freitas](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:michael_rfreitas@hotmail.com)](mailto:michael_rfreitas@hotmail.com)
 [![LinkedIn: Michael Freitas](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/michaelr-freitas)](https://www.linkedin.com/in/michaelr-freitas)
