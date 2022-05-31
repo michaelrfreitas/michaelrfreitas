@@ -1,6 +1,6 @@
 ### Hi 👋,
 
-I'm Michael Freitas. I'm mproving my skills in Development.
+I'm Michael Freitas. I'm improving my skills in Development.
 
 I'm from 🇧🇷 Brazil and living in 🇮🇪 Ireland.
 
