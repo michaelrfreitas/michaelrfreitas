@@ -2,6 +2,7 @@
 
 I'm Michael Freitas.
 
+[![WhatsApp: Michael Freitas](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/353899895543)](https://wa.me/353899895543) 
 [![MS Outlook: Michael Freitas](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:michael_rfreitas@hotmail.com)](mailto:michael_rfreitas@hotmail.com)
 [![LinkedIn: Michael Freitas](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/michaelr-freitas)](https://www.linkedin.com/in/michaelr-freitas)
 
@@ -35,4 +36,4 @@ ____
 
 ![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelrfreitas&theme=blue-green&show_icons=true)
 
-** 👇🏻 You are invited to see my Git and projects 👇🏻 **
+** 👇🏻 You are invited to see my projects 👇🏻 **
